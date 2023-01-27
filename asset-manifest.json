@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Happy-Coding-React/static/css/main.af463a15.css",
+    "main.js": "/Happy-Coding-React/static/js/main.ab88ee72.js",
+    "static/js/787.a1b9add9.chunk.js": "/Happy-Coding-React/static/js/787.a1b9add9.chunk.js",
+    "static/media/socks.jpg": "/Happy-Coding-React/static/media/socks.a8871a58694943c10c3f.jpg",
+    "static/media/hoodies.jpg": "/Happy-Coding-React/static/media/hoodies.ae786370eb0a6b429e08.jpg",
+    "static/media/bags.jpg": "/Happy-Coding-React/static/media/bags.30a7398f651d87204a79.jpg",
+    "static/media/hats.jpg": "/Happy-Coding-React/static/media/hats.538d8295cb6ae3b88fd9.jpg",
+    "static/media/t-shirts.JPG": "/Happy-Coding-React/static/media/t-shirts.f2ab57ad3caad46f18ee.JPG",
+    "index.html": "/Happy-Coding-React/index.html",
+    "main.af463a15.css.map": "/Happy-Coding-React/static/css/main.af463a15.css.map",
+    "main.ab88ee72.js.map": "/Happy-Coding-React/static/js/main.ab88ee72.js.map",
+    "787.a1b9add9.chunk.js.map": "/Happy-Coding-React/static/js/787.a1b9add9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af463a15.css",
+    "static/js/main.ab88ee72.js"
+  ]
+}
